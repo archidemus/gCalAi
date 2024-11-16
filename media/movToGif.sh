@@ -1,0 +1,1 @@
+ffmpeg -i Preview.mov -pix_fmt rgb8 -r 10 Preview.gif && gifsicle -O3 Preview.gif -o Preview.gif

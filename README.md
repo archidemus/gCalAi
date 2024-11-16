@@ -2,6 +2,10 @@
 
 Create Google Calendar Events selectin text and using AI.
 
+## Demo
+
+https://www.youtube.com/watch?v=8Q1_-JSg6AU
+
 [![YouTube](http://i.ytimg.com/vi/8Q1_-JSg6AU/hqdefault.jpg)](https://www.youtube.com/watch?v=8Q1_-JSg6AU)
 
 ## Usage

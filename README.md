@@ -1,6 +1,6 @@
 # gCalAi
 
-Create Google Calendar Events selectin text and using AI.
+Chrome extension to create Google Calendar events from selected text and using AI.
 
 ## Demo
 

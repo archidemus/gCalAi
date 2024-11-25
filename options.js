@@ -1,6 +1,8 @@
 document.addEventListener("DOMContentLoaded", async function () {
   const apiKeyInput = document.getElementById("apiKeyInput");
-  const savedApiKey = await chrome.storage.sync.get("openAiKey");
+  const savedApiKey = (await chrome.storage.sync.get("openAiKey")) || {
+    openAiKey: "",
+  };
   if (savedApiKey) {
     apiKeyInput.value = savedApiKey.openAiKey;
   }

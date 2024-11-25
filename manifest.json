@@ -3,7 +3,7 @@
   "name": "gCalAi",
   "version": "1.0",
   "description": "Create a Google Calendar event from selected text. Requires an OpenAI API key. Configure the key in the options page.",
-  "permissions": ["contextMenus", "clipboardWrite", "storage", "activeTab"],
+  "permissions": ["contextMenus", "storage", "activeTab"],
   "background": {
     "service_worker": "background.js"
   },

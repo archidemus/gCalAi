@@ -13,4 +13,4 @@ If you'd like, you can buy me a coffee [![Ko-fi Badge](https://img.shields.io/ba
 
 ## Install
 
-Install as developer. Step 2 of [this tutorial](https://support.google.com/chrome/a/answer/2714278?hl=en#:~:text=Go%20to%20chrome%3A%2F%2Fextensions,the%20app%20or%20extension%20folder.)
+Install from [Chrome Store](https://chromewebstore.google.com/detail/gcalai/bhnofdnobfmdkfcpafdmhijohegpbohc?authuser=0&hl=en)
